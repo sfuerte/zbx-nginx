@@ -2,9 +2,13 @@
 
 Zabbix Template for Nginx statistics. The script is written in Python.
 
+![Request Statistics](https://github.com/sfuerte/zbx-nginx/blob/master/images/zbx_nginx-request_stats.png)
+![Connection Statistics](https://github.com/sfuerte/zbx-nginx/blob/master/images/zbx_nginx-conn_status.png)
+
 ## System requirements
 
 - [python](http://www.python.org/downloads/)
+
 - [nginx](http://nginx.org/) with configured `http_stub_status_module`
 
 ## Features
