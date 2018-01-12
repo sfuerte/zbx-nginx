@@ -7,7 +7,7 @@ Zabbix Template for Nginx statistics. The script is written in Python.
 
 ## System requirements
 
-- [python](http://www.python.org/downloads/)
+- [python](http://www.python.org/downloads/) >= 2.7.9 (e.g. Debian 8 or higher)
 
 - [nginx](http://nginx.org/) with configured `http_stub_status_module`
 
